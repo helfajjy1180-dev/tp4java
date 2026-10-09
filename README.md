@@ -14,3 +14,10 @@ exercice4  Gestion d’Auteurs, Livres et Bibliothèques
 
 <img width="478" height="176" alt="image" src="https://github.com/user-attachments/assets/98cf80e1-c560-47a7-990d-0f8423a4717d" />
   
+resultat de class point
+
+<img width="164" height="94" alt="image" src="https://github.com/user-attachments/assets/3d825f1c-52c0-44f3-88e2-7d84c8e32105" />
+
+resultat de classe complex
+
+<img width="258" height="62" alt="image" src="https://github.com/user-attachments/assets/228558e9-19c4-400a-8b92-828bcc1531c7" />
